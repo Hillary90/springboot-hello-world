@@ -81,7 +81,7 @@ springboot-hello-world/
 └── README.md
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Spring Boot 3.2.2** - Java framework
 - **Spring Web** - REST API support
@@ -98,7 +98,7 @@ spring.application.name=Spring Boot Hello World
 
 To change the port, modify `server.port` value.
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Port 8080 already in use
 ```bash
